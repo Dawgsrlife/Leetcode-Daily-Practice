@@ -1,7 +1,7 @@
 ##############################################################################
 # Author: AlexanderTheMango
 # Date: January 1st, 2025
-# Descrpition: Maximum Score After Splitting a String
+# Description: Maximum Score After Splitting a String
 # Leetcode Problem Link: https://leetcode.com/problems/maximum-score-after-splitting-a-string/description/?envType=daily-question&envId=2025-01-01
 ##############################################################################
 

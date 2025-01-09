@@ -1,7 +1,7 @@
 ##############################################################################
 # Author: AlexanderTheMango
 # Date: January 6th, 2025
-# Descrpition: Minimum Number of Operations to Move All Balls to Each Box
+# Description: Minimum Number of Operations to Move All Balls to Each Box
 # Leetcode Problem Link: https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/description/?envType=daily-question&envId=2025-01-06
 ##############################################################################
 

@@ -1,7 +1,7 @@
 ##############################################################################
 # Author: AlexanderTheMango
 # Date: January 5th, 2025
-# Descrpition: Shifting Letters II
+# Description: Shifting Letters II
 # Leetcode Problem Link: https://leetcode.com/problems/shifting-letters-ii/description/?envType=daily-question&envId=2025-01-05
 ##############################################################################
 

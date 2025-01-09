@@ -1,7 +1,7 @@
 ##############################################################################
 # Author: AlexanderTheMango
 # Date: January 2nd, 2025
-# Descrpition: Count Vowel Strings in Ranges
+# Description: Count Vowel Strings in Ranges
 # Leetcode Problem Link: https://leetcode.com/problems/count-vowel-strings-in-ranges/description/?envType=daily-question&envId=2025-01-02
 ##############################################################################
 

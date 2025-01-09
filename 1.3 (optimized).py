@@ -1,7 +1,7 @@
 ##############################################################################
 # Author: AlexanderTheMango
 # Date: January 3rd, 2025
-# Descrpition: Number of Ways to Split Array
+# Description: Number of Ways to Split Array
 # Leetcode Problem Link: https://leetcode.com/problems/number-of-ways-to-split-array/description/?envType=daily-question&envId=2025-01-02
 ##############################################################################
 

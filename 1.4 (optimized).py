@@ -1,7 +1,7 @@
 ##############################################################################
 # Author: AlexanderTheMango
 # Date: January 4th, 2025
-# Descrpition: Unique Length-3 Palindromic Subsequences
+# Description: Unique Length-3 Palindromic Subsequences
 # Leetcode Problem Link: https://leetcode.com/problems/unique-length-3-palindromic-subsequences/description/?envType=daily-question&envId=2025-01-04
 ##############################################################################
 
